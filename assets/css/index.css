@@ -1,0 +1,45 @@
+.title{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.container{
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+.frame{
+    border-color: blue;
+    border: 10px;
+    border-style: solid;
+    border-left: solid 30px;
+    border-right: dashed 30px;
+    padding-top: 30px;
+}
+
+body{
+    background-color: navajowhite;
+}
+
+.jumbotron{
+    width: 100%;
+    border: solid 3px white;
+    background-color: #e9ecef;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.parrafo{
+    display: inline;
+}
+
+.box{
+    display: inline-block;
+}
